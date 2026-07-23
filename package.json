@@ -1,0 +1,26 @@
+{
+  "name": "maxitune-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot scaffold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --check index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathdog9405/Maxitune-Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nathdog9405/Maxitune-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Nathdog9405/Maxitune-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}
